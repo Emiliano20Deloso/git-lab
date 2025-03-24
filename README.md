@@ -1,3 +1,3 @@
 # Git and Github Laboratory
-Git practice laboratory.
+Git practice laboratory
 Emiliano Delgadillo

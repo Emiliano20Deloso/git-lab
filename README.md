@@ -9,7 +9,7 @@ We´re learning how to put some headers to a Github file.
 - [ ] Introduce myself to the world
 
 <h3>Images:</h3>
-![Image of variant of the Github logo.]()
+![Image of variant of the Github logo.](./securitocat.png)
 
 <h3>Code Examples:</h3>
 ```python

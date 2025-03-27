@@ -12,8 +12,12 @@ We´re learning how to put some headers to a Github file.
 
 <h3>Code Examples:</h3>
 ```python
-print("Hello world")
+sum1 = 2
+sum2 = 5
+suma = sum1 + sum2
+print("El resultado es: ", suma)
 ```
+
 
 Git Practice Laboratory
 Emiliano Delgadillo 

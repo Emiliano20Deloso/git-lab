@@ -11,11 +11,16 @@ We´re learning how to put some headers to a Github file.
 <h3>Images:</h3>
 
 <h3>Code Examples:</h3>
-``` print(El resultado es: ", 2+2) ```
+```python
+print("Hello world")
+```
+
+Git Practice Laboratory
+Emiliano Delgadillo 
 
 
   <h2> References</h2>
-[GitHub Documentation] (https://docs.github.com/en)
-[GitHub Glossary] (https://docs.github.com/en/get-started/learning-about-github/github-glossary)
-[Git Documentation] (https://git-scm.com/doc)
+[GitHub Documentation](https://docs.github.com/en)
+[GitHub Glossary](https://docs.github.com/en/get-started/learning-about-github/github-glossary)
+[Git Documentation](https://git-scm.com/doc)
 

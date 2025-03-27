@@ -1,5 +1,5 @@
 # Git and Github Laboratory
-<h2>Desciption:</h2>
+<h2>Description</h2>
 We´re learning how to put some headers to a Github file.
 <h2>Contents:</h2>
 <h3>Lists:</h3>

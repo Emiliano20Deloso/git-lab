@@ -11,6 +11,7 @@ We´re learning how to put some headers to a Github file.
 <h3>Images:</h3>
 
 ![Image of variant of the Github logo.](./securitocat.png)
+![Image of variant of the Github logo.](./cap1.png)
 
 <h3>Code Examples:</h3>
 

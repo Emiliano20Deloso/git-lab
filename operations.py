@@ -6,6 +6,3 @@ print("The addition of the two numbers is: ", a+b)
 # Display the subtraction
 
 print("The substraction of the two numbers is: ", a-b)
-
-
->>>>>>> Exfrenn
